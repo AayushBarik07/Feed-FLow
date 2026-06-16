@@ -148,7 +148,7 @@ export default function ProfileScreen() {
               <Text className="font-bold text-xl tracking-tight mb-1" style={{ color: colors.text, fontFamily: 'Inter_700Bold' }}>{displayUsername}</Text>
               <Text className="text-sm mb-2" style={{ color: colors.textMuted, fontFamily: 'Inter_400Regular' }}>{user?.email}</Text>
               <View className="flex-row items-center gap-3">
-                <Text className="text-[10px] uppercase tracking-wider" style={{ color: colors.textMuted, fontFamily: 'Inter_500Medium' }}>JOINED {new Date(user?.created_at || Date.now()).getFullYear()}</Text>
+                <Text className="text-[10px] uppercase tracking-wider" style={{ color: colors.textMuted, fontFamily: 'Inter_500Medium' }}>JOINED {new Date((user as any)?.created_at || Date.now()).getFullYear()}</Text>
               </View>
             </View>
           </View>

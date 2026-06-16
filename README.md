@@ -8,7 +8,7 @@ FeedFlow is a React Native mobile application built to give you back control ove
 
 📹 **Watch the FeedFlow Demo**
 
-[▶️ Open Demo Video](./assets/Demo/FeedFlow%20Demo%20Video.mp4)
+[▶️ Open Demo Video](https://drive.google.com/drive/folders/1eBzRRl7YQh1dFwwNFrBMhQ2khhZo_hYo?usp=sharing)
 ---
 
 ## 🚀 The Problem & Solution
