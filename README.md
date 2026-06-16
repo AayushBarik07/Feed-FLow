@@ -4,6 +4,11 @@
 
 FeedFlow is a React Native mobile application built to give you back control over your digital consumption. It acts as a personal firewall and curation engine for your Instagram feed, allowing you to explicitly declare what you want to see—and what you want to avoid.
 
+## 🎥 Demo Video
+
+📹 **Watch the FeedFlow Demo**
+
+[▶️ Open Demo Video](./assets/Demo/FeedFlow%20Demo%20Video.mp4)
 ---
 
 ## 🚀 The Problem & Solution
