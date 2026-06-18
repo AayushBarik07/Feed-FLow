@@ -11,6 +11,13 @@ FeedFlow is a React Native mobile application built to give you back control ove
 [▶️ Open Demo Video](https://drive.google.com/drive/folders/1eBzRRl7YQh1dFwwNFrBMhQ2khhZo_hYo?usp=sharing)
 ---
 
+## 🎥 APK Link
+
+📹 **Download App**
+
+[🔗 APK Link](https://expo.dev/accounts/aayu_07/projects/FeedFlow/builds/ab361872-f1e5-47a1-816a-5c9f1daa0d6f)
+---
+
 ## 🚀 The Problem & Solution
 
 **The Problem:** The Instagram algorithm is a black box. Users get trapped in engagement loops, exposed to polarizing news, clickbait, and toxic content, leading to endless scrolling with zero agency over their feed.
